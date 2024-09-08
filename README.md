@@ -4,7 +4,8 @@
   <li>Working as a 5G Baseband Software Dev Intern at Ericsson</li>
   <li>You can reach me at surenkulasegaram@gmail.com</li>
   <li>Check out my resume ---> <a href="https://suren2003.github.io/Suren-Kulasegaram/assets/Resume_Suren_Kulasegaram.pdf">HERE</a></li>
-  <li>I will have my portfolio page up soon ... hopefully :)</li>
+  <li>I will have my portfolio page up soon ... hopefully :). But you can find it below</li>
+  <li>Check out my personal website ---> <a href="https://suren2003.github.io/Suren-Kulasegaram/">HERE</a></li>
 </ul>
 
 
