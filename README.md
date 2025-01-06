@@ -1,7 +1,7 @@
 # 💫 About Me:
 <ul>
   <li>Computer Systems Engineering student at Carleton University</li>
-  <li>Working as a 5G Baseband Software Dev Intern at Ericsson</li>
+  <li>Most recently worked as a 5G Baseband Software Dev Intern at Ericsson</li>
   <li>You can reach me at surenkulasegaram@gmail.com</li>
   <li>Check out my resume ---> <a href="https://suren2003.github.io/personal-website/Resume_Suren_Kulasegaram.pdf">HERE</a></li>
   <li>Right now I am working on building my personal portfolio website. Hopefully it will be ready soon, but the link is below :)</li>
